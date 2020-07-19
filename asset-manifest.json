@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/netflixApp/static/css/main.e2be4ab3.chunk.css",
-    "main.js": "/netflixApp/static/js/main.cc1d721d.chunk.js",
-    "main.js.map": "/netflixApp/static/js/main.cc1d721d.chunk.js.map",
-    "runtime-main.js": "/netflixApp/static/js/runtime-main.fd6611cf.js",
-    "runtime-main.js.map": "/netflixApp/static/js/runtime-main.fd6611cf.js.map",
-    "static/js/2.eb3c8c17.chunk.js": "/netflixApp/static/js/2.eb3c8c17.chunk.js",
-    "static/js/2.eb3c8c17.chunk.js.map": "/netflixApp/static/js/2.eb3c8c17.chunk.js.map",
-    "index.html": "/netflixApp/index.html",
-    "precache-manifest.47d1efad3eed1c79c500c10f9379a8df.js": "/netflixApp/precache-manifest.47d1efad3eed1c79c500c10f9379a8df.js",
-    "service-worker.js": "/netflixApp/service-worker.js",
-    "static/css/main.e2be4ab3.chunk.css.map": "/netflixApp/static/css/main.e2be4ab3.chunk.css.map",
-    "static/js/2.eb3c8c17.chunk.js.LICENSE.txt": "/netflixApp/static/js/2.eb3c8c17.chunk.js.LICENSE.txt"
+    "main.css": "/netflixlist/static/css/main.e2be4ab3.chunk.css",
+    "main.js": "/netflixlist/static/js/main.21255dc9.chunk.js",
+    "main.js.map": "/netflixlist/static/js/main.21255dc9.chunk.js.map",
+    "runtime-main.js": "/netflixlist/static/js/runtime-main.5a13359f.js",
+    "runtime-main.js.map": "/netflixlist/static/js/runtime-main.5a13359f.js.map",
+    "static/js/2.eb3c8c17.chunk.js": "/netflixlist/static/js/2.eb3c8c17.chunk.js",
+    "static/js/2.eb3c8c17.chunk.js.map": "/netflixlist/static/js/2.eb3c8c17.chunk.js.map",
+    "index.html": "/netflixlist/index.html",
+    "precache-manifest.abca6f5a142b35ef7243cc1b784213ea.js": "/netflixlist/precache-manifest.abca6f5a142b35ef7243cc1b784213ea.js",
+    "service-worker.js": "/netflixlist/service-worker.js",
+    "static/css/main.e2be4ab3.chunk.css.map": "/netflixlist/static/css/main.e2be4ab3.chunk.css.map",
+    "static/js/2.eb3c8c17.chunk.js.LICENSE.txt": "/netflixlist/static/js/2.eb3c8c17.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fd6611cf.js",
+    "static/js/runtime-main.5a13359f.js",
     "static/js/2.eb3c8c17.chunk.js",
     "static/css/main.e2be4ab3.chunk.css",
-    "static/js/main.cc1d721d.chunk.js"
+    "static/js/main.21255dc9.chunk.js"
   ]
 }
